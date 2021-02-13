@@ -1,7 +1,0 @@
-*
-
-!.gitignore
-!cc2530.h
-!main.c
-!compile-and-flash.sh
-!README.md
