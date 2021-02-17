@@ -6,9 +6,13 @@ This small c program uses registries to blink the red and green led of the CC253
 
 - sdcc
 - cc-tool
+- packihx 
 
-## Build & flash
+## Compile, flash, and Clean
 
 ```bash
-./build-and-flash.sh
+cd build
+./compile.sh
+./flash.sh
+./clean.sh
 ```
